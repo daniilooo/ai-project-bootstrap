@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Project Bootstrap"
+  short_description: "Prepara projetos AI-native com Intake e Vault"
+  default_prompt: "Use $ai-project-bootstrap para preparar este projeto. Comece pelo Intake em PT-BR, sem implementar código do produto."
